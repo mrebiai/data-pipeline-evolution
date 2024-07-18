@@ -1,0 +1,6 @@
+= data-pipeline-evolution
+
+French talk title : Evolution de 100 services sans revolution
+English talk title : Evolution of 100 services without revolution
+
+TODO
